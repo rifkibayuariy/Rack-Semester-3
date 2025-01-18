@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement", "LibraryManagement\LibraryManagement.csproj", "{C491BAFC-C2BC-4874-8038-6AC834D978AF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Rack", "Rack\Rack.vdproj", "{EC346476-A832-4D26-ADB8-71D61413F2C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C491BAFC-C2BC-4874-8038-6AC834D978AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C491BAFC-C2BC-4874-8038-6AC834D978AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C491BAFC-C2BC-4874-8038-6AC834D978AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C491BAFC-C2BC-4874-8038-6AC834D978AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC346476-A832-4D26-ADB8-71D61413F2C8}.Debug|Any CPU.ActiveCfg = Debug
+		{EC346476-A832-4D26-ADB8-71D61413F2C8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C90FE363-316C-418E-80DB-F88EA68B68A0}
+	EndGlobalSection
+EndGlobal
