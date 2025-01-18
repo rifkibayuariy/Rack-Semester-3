@@ -591,7 +591,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Rack"
         "ProductCode" = "8:{335F725C-DBF3-423E-BBCC-C7B5FD7CA91A}"
-        "PackageCode" = "8:{B2EC46D7-5C0E-43B7-BB46-E2B217504B9E}"
+        "PackageCode" = "8:{879CA7AF-AD2D-4035-8855-95A9AD8F93B2}"
         "UpgradeCode" = "8:{DDBFC497-A188-4CEF-B8F0-48BA083D3F60}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
