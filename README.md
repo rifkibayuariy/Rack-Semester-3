@@ -1,4 +1,4 @@
-# LibraryManagement
+# Rack - LibraryManagement
 
 ![Rack - Login](https://github.com/user-attachments/assets/e7e18a06-a749-443f-80b7-f1b141c9339d)
 
